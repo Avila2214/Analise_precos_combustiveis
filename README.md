@@ -24,9 +24,10 @@ Este projeto utiliza um datalake com camadas **Bronze**, **Silver** e **Gold** p
 
 ## Instruções para Execução
 
-**Clonar ou repositório**
+**Clonar ou repositório**:
+https://github.com/Avila2214/Combustiveis_DataLake.git
 
-**Instale as dependências necessárias**
+**Instale as dependências necessárias.**
 
 **Execute os scripts na ordem para simular o pipeline de ETL**:
 
